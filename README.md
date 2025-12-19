@@ -1,2 +1,9 @@
 # deepseek-export-chat-records
-一个可以导出用户和模型的聊天历史记录的简单工具，方便导入其它会话中A simple tool that can export the chat history of users and models, making it convenient to import them into other sessions
+一个可以导出用户和模型的聊天历史记录的简单工具，方便导入其它会话中
+
+## 效果说明
+右下角浮动按钮 - 紫色渐变圆形按钮，hover有缩放动画
+弹窗 - 毛玻璃背景，卡片弹出动画，显示消息数量
+两个导出按钮 - JSON(紫色) / TXT(粉色)
+Toast提示 - 底部弹出成功/错误提示
+### ⚠️ 注意：选择器 .fbb737a4 可能会随DeepSeek更新而变化，如失效需更新 config.js 中的选择器。

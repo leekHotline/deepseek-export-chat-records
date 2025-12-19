@@ -4,7 +4,7 @@ const path = require('path');
 const header = `// ==UserScript==
 // @name         DeepSeek 聊天记录导出工具
 // @namespace    https://github.com/leekHotline/deepseek-export-chat-records
-// @version      .0.0
+// @version      1.0.0
 // @description  导出 DeepSeek 聊天记录为 JSON/TXT
 // @author       leekHotline
 // @match        https://chat.deepseek.com/*

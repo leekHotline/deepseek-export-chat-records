@@ -1,0 +1,11 @@
+# .github/workflows/ci.yml
+name: Test Action
+
+on: [push]
+
+jobs:
+  hello:
+    runs-on: ubunt-latest
+    steps:
+      - run: echo "hello from github actions!"
+      - run: date

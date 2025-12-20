@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         DeepSeek 聊天记录导出工具
 // @namespace    https://github.com/leekHotline/deepseek-export-chat-records
-// @version      1.0.0
+// @version      1.0.1
 // @description  导出 DeepSeek 聊天记录为 JSON/TXT
 // @author       leekHotline
 // @match        https://chat.deepseek.com/*
